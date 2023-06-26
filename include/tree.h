@@ -3,9 +3,8 @@
 // Started 25 June 2023
 // by Sebastian Ibanez
 
-#include <iostream>
-int main()
+class Node
 {
-	std::cout << "Sage advice" << std::endl;
-	return 0;
+
 }
+
