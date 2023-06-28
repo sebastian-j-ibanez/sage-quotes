@@ -7,5 +7,5 @@ A tool to display, save, and manage quotes in the terminal.
 * bash 5.2
 * figlet 2.2.5 
 
-## Compatibility
+### Compatibility
 Compatible with any Linux distro that is not immutable.
