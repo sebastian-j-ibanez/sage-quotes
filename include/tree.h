@@ -5,8 +5,7 @@
 
 #include <string>
 
-class Quote
-{
+class Quote {
 	private:
 	std::string message;
 	std::string author;
@@ -25,8 +24,7 @@ class Quote
 	std::string setYear(std::string newYear);	
 }
 
-class Node
-{
+class Node {
 	Node* left;
 	Node* right;
 	Quote data;	

@@ -5,8 +5,8 @@
 
 #include <iostream>
 #include <string>
-int main()
-{
+
+int main() {
 	// std::cout << "Sage advice" << std::endl;
 	std::string advice = "Sage advice";
 	std::string printCommand = "figlet -f slant "; 
