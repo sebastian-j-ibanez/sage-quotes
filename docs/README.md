@@ -9,3 +9,8 @@ A tool to display, save, and manage quotes in the terminal.
 
 ### Compatibility
 Compatible with any Linux distro that is not immutable.
+
+### Potential Features
+- [ ] CRUD quotes
+- [ ] figlet formatting
+- [ ] Ascii Art?
