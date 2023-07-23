@@ -5,9 +5,11 @@ A tool to display, save, and manage quotes in the terminal.
 
 ### Dependencies
 * bash 5.2
-* figlet 2.2.5 
+* figlet 2.2.5
+* kitty 0.28.1
 
 ### Potential Features
 - [ ] CRUD quotes
 - [ ] figlet formatting
+- [ ] icat image formatting
 - [ ] Ascii Art?
