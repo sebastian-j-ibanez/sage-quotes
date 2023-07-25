@@ -12,4 +12,5 @@ A tool to display, save, and manage quotes in the terminal.
 - [ ] CRUD quotes
 - [ ] figlet formatting
 - [ ] icat image formatting
+- [ ] SQlite db
 - [ ] Ascii Art?
