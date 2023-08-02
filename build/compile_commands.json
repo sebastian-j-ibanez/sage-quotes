@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sebastiani/Code/sage-quotes/build",
+  "command": "/usr/bin/g++  -I/home/sebastiani/Code/sage-quotes -I/home/sebastiani/Code/sage-quotes/include -I/home/sebastiani/Code/sage-quotes/src -I/home/sebastiani/Code/sage-quotes/sqlite -g -o CMakeFiles/sage.dir/src/main.cpp.o -c /home/sebastiani/Code/sage-quotes/src/main.cpp",
+  "file": "/home/sebastiani/Code/sage-quotes/src/main.cpp",
+  "output": "CMakeFiles/sage.dir/src/main.cpp.o"
+}
+]

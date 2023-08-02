@@ -4,19 +4,18 @@
 // by Sebastian Ibanez
 
 #include "../include/menu.h"
+#include <iostream>
 
-using std::cout;
-using std::cin;
-using std::endl;
+using namespace std;
 
 int getMenuOption(int numOfOptions)
 {
 	int selected = -1;
 	
 	do {
-		cout << "Please select an option: " << endl;
-		cin >> selected;
-	} while (selected > 0 && selected <= numOfOptions)
+		std::cout << "Please select an option: " << std::endl;
+		std::cin >> selected;
+	} while (selected > 0 && selected <= numOfOptions);
 	
 	return selected;
 }

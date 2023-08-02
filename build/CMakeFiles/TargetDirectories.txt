@@ -1,0 +1,3 @@
+/home/sebastiani/Code/sage-quotes/build/CMakeFiles/sage.dir
+/home/sebastiani/Code/sage-quotes/build/CMakeFiles/edit_cache.dir
+/home/sebastiani/Code/sage-quotes/build/CMakeFiles/rebuild_cache.dir
