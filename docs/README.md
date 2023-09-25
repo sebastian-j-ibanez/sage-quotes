@@ -3,6 +3,9 @@ A tool to display, save, and manage quotes in the terminal.
 
 > "A Sage is the instructor of a hundred ages" - Ralph Waldo Emerson
 
+### STATUS
+In Development
+
 ### Dependencies
 * bash 5.2
 * figlet 2.2.5
